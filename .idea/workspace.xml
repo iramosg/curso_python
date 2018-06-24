@@ -65,11 +65,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="exercicio_aula04.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="exercicio_aula04.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/exercicio_aula04.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="6" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+            <state relative-caret-position="153">
+              <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="aula05.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aula05.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="10" lean-forward="true" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="exercicio_aula05.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/exercicio_aula05.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="69" selection-start-line="2" selection-start-column="69" selection-end-line="2" selection-end-column="69" />
             </state>
           </provider>
         </entry>
@@ -96,12 +114,14 @@
         <option value="$PROJECT_DIR$/aula04.py" />
         <option value="$PROJECT_DIR$/exemplo_aula04.py" />
         <option value="$PROJECT_DIR$/exercicio_aula04.py" />
+        <option value="$PROJECT_DIR$/aula05.py" />
+        <option value="$PROJECT_DIR$/exercicio_aula05.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1492" />
-    <option name="width" value="1075" />
+    <option name="x" value="1277" />
+    <option name="width" value="1290" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -139,25 +159,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.exercicio_aula04">
-    <configuration name="aula03" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="curso_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula03.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.exercicio_aula05">
     <configuration name="aula04" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="curso_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -171,6 +173,24 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula04.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="aula05" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="curso_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula05.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -194,24 +214,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="exercicio_aula03" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="curso_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicio_aula03.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <configuration name="exercicio_aula04" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="curso_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -230,20 +232,38 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="exercicio_aula05" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="curso_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicio_aula05.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
-      <item itemvalue="Python.aula03" />
-      <item itemvalue="Python.exercicio_aula03" />
       <item itemvalue="Python.aula04" />
       <item itemvalue="Python.exemplo_aula04" />
       <item itemvalue="Python.exercicio_aula04" />
+      <item itemvalue="Python.aula05" />
+      <item itemvalue="Python.exercicio_aula05" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.exercicio_aula05" />
+        <item itemvalue="Python.aula05" />
         <item itemvalue="Python.exercicio_aula04" />
         <item itemvalue="Python.exemplo_aula04" />
         <item itemvalue="Python.aula04" />
-        <item itemvalue="Python.exercicio_aula03" />
-        <item itemvalue="Python.aula03" />
       </list>
     </recent_temporary>
   </component>
@@ -261,10 +281,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1492" y="0" width="1075" height="1047" extended-state="0" />
+    <frame x="1277" y="0" width="1290" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32672334" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27158555" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" />
@@ -331,8 +351,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/exercicio_aula04.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="6" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        <state relative-caret-position="153">
+          <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aula05.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="10" lean-forward="true" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercicio_aula05.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="69" selection-start-line="2" selection-start-column="69" selection-end-line="2" selection-end-column="69" />
         </state>
       </provider>
     </entry>
