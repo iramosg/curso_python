@@ -15,7 +15,7 @@
         <entry file="file://$PROJECT_DIR$/aula01.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="2" column="24" lean-forward="true" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+              <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -33,16 +33,7 @@
         <entry file="file://$PROJECT_DIR$/aula03.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="459">
-              <caret line="27" column="19" lean-forward="true" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="exercicio_aula03.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/exercicio_aula03.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+              <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -69,7 +60,7 @@
         <entry file="file://$PROJECT_DIR$/exercicio_aula04.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+              <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -78,16 +69,34 @@
         <entry file="file://$PROJECT_DIR$/aula05.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="10" lean-forward="true" selection-end-line="1" />
+              <caret column="10" selection-end-line="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="exercicio_aula05.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="exercicio_aula05.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/exercicio_aula05.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="69" selection-start-line="2" selection-start-column="69" selection-end-line="2" selection-end-column="69" />
+            <state>
+              <caret column="107" selection-start-column="107" selection-end-column="107" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="aula06.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aula06.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="339">
+              <caret line="31" column="65" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="exercicio_aula06.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/exercicio_aula06.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -116,6 +125,8 @@
         <option value="$PROJECT_DIR$/exercicio_aula04.py" />
         <option value="$PROJECT_DIR$/aula05.py" />
         <option value="$PROJECT_DIR$/exercicio_aula05.py" />
+        <option value="$PROJECT_DIR$/aula06.py" />
+        <option value="$PROJECT_DIR$/exercicio_aula06.py" />
       </list>
     </option>
   </component>
@@ -159,25 +170,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.exercicio_aula05">
-    <configuration name="aula04" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="curso_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula04.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.exercicio_aula06">
     <configuration name="aula05" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="curso_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -196,7 +189,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="exemplo_aula04" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="aula06" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="curso_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -208,7 +201,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exemplo_aula04.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula06.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -250,20 +243,38 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="exercicio_aula06" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="curso_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicio_aula06.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
-      <item itemvalue="Python.aula04" />
-      <item itemvalue="Python.exemplo_aula04" />
       <item itemvalue="Python.exercicio_aula04" />
       <item itemvalue="Python.aula05" />
       <item itemvalue="Python.exercicio_aula05" />
+      <item itemvalue="Python.aula06" />
+      <item itemvalue="Python.exercicio_aula06" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.exercicio_aula06" />
+        <item itemvalue="Python.aula06" />
         <item itemvalue="Python.exercicio_aula05" />
         <item itemvalue="Python.aula05" />
         <item itemvalue="Python.exercicio_aula04" />
-        <item itemvalue="Python.exemplo_aula04" />
-        <item itemvalue="Python.aula04" />
       </list>
     </recent_temporary>
   </component>
@@ -282,7 +293,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1277" y="0" width="1290" height="1047" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27158555" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -324,7 +334,7 @@
     <entry file="file://$PROJECT_DIR$/aula03.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
-          <caret line="27" column="19" lean-forward="true" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+          <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -338,7 +348,7 @@
     <entry file="file://$PROJECT_DIR$/aula01.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="24" lean-forward="true" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -352,21 +362,35 @@
     <entry file="file://$PROJECT_DIR$/exercicio_aula04.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/aula05.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="10" lean-forward="true" selection-end-line="1" />
+          <caret column="10" selection-end-line="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/exercicio_aula05.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="69" selection-start-line="2" selection-start-column="69" selection-end-line="2" selection-end-column="69" />
+        <state>
+          <caret column="107" selection-start-column="107" selection-end-column="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aula06.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="31" column="65" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercicio_aula06.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
         </state>
       </provider>
     </entry>
